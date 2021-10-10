@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "478852177280",
+    "project_id": "vaep-72fbf",
+    "storage_bucket": "vaep-72fbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478852177280:android:00e36c79723fa2ce1bb565",
+        "android_client_info": {
+          "package_name": "com.example.vaep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478852177280-opu99pqiu29gisd0r8pdm6r7a6r1ko0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwUAgqksOR1muKtdgrVXqc3kGHbcBMl8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478852177280-opu99pqiu29gisd0r8pdm6r7a6r1ko0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
